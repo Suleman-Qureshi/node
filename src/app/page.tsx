@@ -28,9 +28,10 @@ video will come here
         </div>
         
         </div> */}
-    <HeroPage/>
+    {/* <HeroPage/>
     <Decentralization/>
-    <Revolution/>
+    <Revolution/> */}
+    HOME PAGE
     {/* <CardCarousel/> */}
     <div className="w-screen px-20 bg-[#080808]"><Footer/></div>
     </>
